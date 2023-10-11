@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "whyred-n-oss",
-      "repo": "https://github.com/Renzprjkt/kernel_n_whyred",
-      "branch": "whyred-n-oss",
-      "device": "whyred",
-      "defconfig": "whyred-perf_defconfig"
+      "name": "Febrian Kernel",
+      "repo": "https://github.com/FebrianYT/android_kernel_xiaomi_sm6225",
+      "branch": "spes-r-oss",
+      "device": "spes",
+      "defconfig": "spes-perf_defconfig"
   },
     "toolchains": [
       {
