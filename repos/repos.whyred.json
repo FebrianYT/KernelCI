@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Febrian Kernel",
+      "name": "spes-r-oss",
       "repo": "https://github.com/FebrianYT/android_kernel_xiaomi_sm6225",
       "branch": "spes-r-oss",
       "device": "spes",
