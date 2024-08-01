@@ -5,7 +5,7 @@
       "repo": "https://github.com/FebrianYT/kernel_xiaomi_sm6225",
       "branch": "main",
       "device": "spes",
-      "defconfig": "spes-perf_defconfig"
+      "defconfig": "vendor/spes-perf_defconfig"
   },
     "toolchains": [
       {
